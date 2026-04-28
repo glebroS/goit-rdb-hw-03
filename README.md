@@ -8,7 +8,7 @@
 
 ## **Вміст репозиторію**
 
-* hw3\_queries.sql (або SQL Commands.txt) — Файл із текстом усіх виконаних SQL-запитів.  
+* SQL Commands.txt — Файл із текстом усіх виконаних SQL-запитів.  
 * p1\_1\_select\_all.png — Результат вибірки всіх стовпчиків з таблиці products.  
 * p1\_2\_select\_shippers.png — Результат вибірки стовпчиків name та phone з таблиці shippers.  
 * p2\_aggregate.png — Результат використання агрегатних функцій (AVG, MAX, MIN) для ціни товарів.  
